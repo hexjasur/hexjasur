@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 90" role="img" aria-label="Flora divider">
+  <path d="M30 45h285c42 0 55-20 79-20s37 20 79 20h153c42 0 55-20 79-20s37 20 79 20h146" fill="none" stroke="#31473B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M480 45c-6-18 3-31 18-40 9 17 4 31-18 40Zm0 0c6-18-3-31-18-40-9 17-4 31 18 40Zm0 0c16-7 31-4 42 8-16 13-31 11-42-8Zm0 0c-16-7-31-4-42 8 16 13 31 11 42-8Z" fill="#C7D2B1" stroke="#2F4038" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="480" cy="45" r="10" fill="#DDA095" stroke="#2F4038" stroke-width="4"/>
+  <circle cx="335" cy="45" r="5" fill="#B86752"/>
+  <circle cx="625" cy="45" r="5" fill="#B86752"/>
+</svg>
