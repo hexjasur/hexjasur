@@ -1,13 +1,120 @@
+<div align="center">
+  <img src="./assets/flora/floral-corner.png" alt="Flora decoration" width="180" align="right" />
+  <img src="./assets/jasurbek-haydarov.svg" alt="Jasurbek Haydarov" width="720" />
+  <br />
+  <p><strong>Software Engineer · Builder · Technical Explorer</strong></p>
+  <p>
+    <a href="https://hexjasur.github.io/Jasurbek/">Portfolio</a>
+    ·
+    <a href="https://github.com/hexjasur">Repositories</a>
+    ·
+    <a href="https://t.me/jasurhaydarovcode">Telegram</a>
+    ·
+    <a href="mailto:jasurhaydarovcode@gmail.com">Email</a>
+  </p>
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+<br clear="all" />
 
+<div align="center">
+  <img src="./assets/flora/flora-divider.svg" alt="Botanical divider" width="760" />
+</div>
 
-<h2>Graph</h2>
+## Hello, I'm Jasurbek
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=hexjasur&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="hexjasur contribution activity" />
-</picture>
-</p>
+I build practical software across the web, desktop, and developer-tooling space. My work usually starts with a small idea, grows through hands-on experiments, and ends as something useful enough to share.
+
+I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for native applications, and turning technical concepts into clear interfaces. This profile is a living garden of projects, experiments, and engineering notes.
+
+<img src="./assets/flora/floral-left.png" alt="Flora branch" width="180" align="right" />
+
+### Current focus
+
+- Building focused tools for developers and everyday workflows
+- Shipping cross-platform desktop applications with Tauri
+- Exploring computational mathematics and interactive learning tools
+- Improving AI-assisted development workflows with clear project context
+- Writing technical notes from real implementation experience
+
+<br clear="all" />
+
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Yolnoma-App</h3>
+      <p>A Tauri-powered desktop workspace for developer, network, media, image, AI, and gaming utilities.</p>
+      <p><strong>React · TypeScript · Tauri v2 · Rust</strong></p>
+      <a href="https://app.yolnoma.uz">Live website</a> · <a href="https://github.com/hexjasur/Yolnoma-App">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Numeric Methods</h3>
+      <p>An interactive laboratory for numerical methods with formulas, charts, audit tables, and step-by-step solvers.</p>
+      <p><strong>Next.js · React · Tauri v2 · Math.js</strong></p>
+      <a href="https://sonli-usullar.uz">Live website</a> · <a href="https://github.com/hexjasur/numeric-methods">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AGENTS.md</h3>
+      <p>A documentation project for installing and maintaining reliable instructions for AI coding agents.</p>
+      <p><strong>Documentation · Project conventions · AI workflows</strong></p>
+      <a href="https://github.com/hexjasur/AGENTS.md">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio &amp; Blog</h3>
+      <p>A fast Astro site for projects, engineering notes, browser tools, and experiments.</p>
+      <p><strong>Astro · Tailwind CSS · Markdown · GitHub Pages</strong></p>
+      <a href="https://hexjasur.github.io/Jasurbek/">Open portfolio</a> · <a href="https://github.com/hexjasur/Jasurbek">Repository</a>
+    </td>
+  </tr>
+</table>
+
+## Technologies I use
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-2F4038?style=for-the-badge&logo=typescript&logoColor=F1E9DC)
+![JavaScript](https://img.shields.io/badge/JavaScript-B86752?style=for-the-badge&logo=javascript&logoColor=FBF6EC)
+![React](https://img.shields.io/badge/React-82998C?style=for-the-badge&logo=react&logoColor=FBF6EC)
+![Next.js](https://img.shields.io/badge/Next.js-2F4038?style=for-the-badge&logo=next.js&logoColor=FBF6EC)
+![Astro](https://img.shields.io/badge/Astro-DDA095?style=for-the-badge&logo=astro&logoColor=2F4038)
+![Node.js](https://img.shields.io/badge/Node.js-C7D2B1?style=for-the-badge&logo=node.js&logoColor=2F4038)
+![Python](https://img.shields.io/badge/Python-82998C?style=for-the-badge&logo=python&logoColor=FBF6EC)
+![Rust](https://img.shields.io/badge/Rust-B86752?style=for-the-badge&logo=rust&logoColor=FBF6EC)
+![Tauri](https://img.shields.io/badge/Tauri-2F4038?style=for-the-badge&logo=tauri&logoColor=C7D2B1)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-C7D2B1?style=for-the-badge&logo=tailwind-css&logoColor=2F4038)
+![Docker](https://img.shields.io/badge/Docker-82998C?style=for-the-badge&logo=docker&logoColor=FBF6EC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DDA095?style=for-the-badge&logo=postgresql&logoColor=2F4038)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2F4038?style=for-the-badge&logo=github-actions&logoColor=F1E9DC)
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+  <a href="https://github.com/hexjasur">
+    <img src="https://github-readme-stats.vercel.app/api?username=hexjasur&show_icons=true&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D&icon_color=B86752" alt="Jasurbek's GitHub stats" height="165" />
+  </a>
+  <a href="https://github.com/hexjasur">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexjasur&layout=compact&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D" alt="Jasurbek's top languages" height="165" />
+  </a>
+</div>
+
+## Connect
+
+<div align="center">
+  <img src="./assets/flora/floral-bloom.png" alt="Floral bloom" width="120" />
+  <br />
+  <a href="https://hexjasur.github.io/Jasurbek/">Portfolio</a> ·
+  <a href="https://github.com/hexjasur">GitHub</a> ·
+  <a href="https://t.me/jasurhaydarovcode">Telegram</a> ·
+  <a href="mailto:jasurhaydarovcode@gmail.com">jasurhaydarovcode@gmail.com</a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Built with curiosity, shipped with care, and styled with a little botanical calm.</sub>
+</div>
