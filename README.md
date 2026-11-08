@@ -72,7 +72,7 @@ I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for nat
 
 <div align="center">
   <a href="https://wakatime.com/@c042cc50-f9e3-4b2b-8eab-61175fd75c42">
-    <img src="https://github-readme-stats-seven-khaki-85.vercel.app/api/wakatime?username=c042cc50-f9e3-4b2b-8eab-61175fd75c42&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D&icon_color=B86752&layout=compact" alt="Jasurbek's WakaTime stats" height="165" />
+    <img src="https://github-readme-stats-seven-khaki-85.vercel.app/api/wakatime?username=c042cc50-f9e3-4b2b-8eab-61175fd75c42&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D&icon_color=B86752&langs_count=8&card_width=600" alt="Jasurbek's WakaTime stats" width="600" />
   </a>
 </div>
 
