@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/flora/floral-corner.png" alt="Flora decoration" width="180" align="right" />
   <img src="./assets/jasurbek-haydarov.svg" alt="Jasurbek Haydarov" width="720" />
   <br />
   <p><strong>Software Engineer · Builder · Technical Explorer</strong></p>
@@ -26,7 +25,7 @@ I build practical software across the web, desktop, and developer-tooling space.
 
 I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for native applications, and turning technical concepts into clear interfaces. This profile is a living garden of projects, experiments, and engineering notes.
 
-<img src="./assets/flora/floral-left.png" alt="Flora branch" width="180" align="right" />
+<img src="./assets/flora/floral-left.webp" alt="Flora branch" width="180" align="right" />
 
 ### Current focus
 
@@ -95,17 +94,25 @@ I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for nat
 
 <div align="center">
   <a href="https://github.com/hexjasur">
-    <img src="https://github-readme-stats.vercel.app/api?username=hexjasur&show_icons=true&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D&icon_color=B86752" alt="Jasurbek's GitHub stats" height="165" />
+    <img src="https://github-readme-stats-seven-khaki-85.vercel.app/api?username=hexjasur&show_icons=true&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D&icon_color=B86752" alt="Jasurbek's GitHub stats" height="165" />
   </a>
   <a href="https://github.com/hexjasur">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexjasur&layout=compact&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D" alt="Jasurbek's top languages" height="165" />
+    <img src="https://github-readme-stats-seven-khaki-85.vercel.app/api/top-langs/?username=hexjasur&layout=compact&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D" alt="Jasurbek's top languages" height="165" />
+  </a>
+</div>
+
+## Coding activity
+
+<div align="center">
+  <a href="https://wakatime.com/@c042cc50-f9e3-4b2b-8eab-61175fd75c42">
+    <img src="https://github-readme-stats-seven-khaki-85.vercel.app/api/wakatime?username=c042cc50-f9e3-4b2b-8eab-61175fd75c42&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D&icon_color=B86752&layout=compact" alt="Jasurbek's WakaTime stats" height="165" />
   </a>
 </div>
 
 ## Connect
 
 <div align="center">
-  <img src="./assets/flora/floral-bloom.png" alt="Floral bloom" width="120" />
+  <img src="./assets/flora/floral-bloom.webp" alt="Floral bloom" width="120" />
   <br />
   <a href="https://hexjasur.github.io/Jasurbek/">Portfolio</a> ·
   <a href="https://github.com/hexjasur">GitHub</a> ·
