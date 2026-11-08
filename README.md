@@ -37,39 +37,6 @@ I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for nat
 
 <br clear="all" />
 
-## Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Yolnoma-App</h3>
-      <p>A Tauri-powered desktop workspace for developer, network, media, image, AI, and gaming utilities.</p>
-      <p><strong>React · TypeScript · Tauri v2 · Rust</strong></p>
-      <a href="https://app.yolnoma.uz">Live website</a> · <a href="https://github.com/hexjasur/Yolnoma-App">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Numeric Methods</h3>
-      <p>An interactive laboratory for numerical methods with formulas, charts, audit tables, and step-by-step solvers.</p>
-      <p><strong>Next.js · React · Tauri v2 · Math.js</strong></p>
-      <a href="https://sonli-usullar.uz">Live website</a> · <a href="https://github.com/hexjasur/numeric-methods">Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AGENTS.md</h3>
-      <p>A documentation project for installing and maintaining reliable instructions for AI coding agents.</p>
-      <p><strong>Documentation · Project conventions · AI workflows</strong></p>
-      <a href="https://github.com/hexjasur/AGENTS.md">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Portfolio &amp; Blog</h3>
-      <p>A fast Astro site for projects, engineering notes, browser tools, and experiments.</p>
-      <p><strong>Astro · Tailwind CSS · Markdown · GitHub Pages</strong></p>
-      <a href="https://hexjasur.github.io/Jasurbek/">Open portfolio</a> · <a href="https://github.com/hexjasur/Jasurbek">Repository</a>
-    </td>
-  </tr>
-</table>
-
 ## Technologies I use
 
 <div align="center">
