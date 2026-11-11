@@ -1,22 +1,24 @@
 <div align="center">
-  <img src="./assets/jasurbek-haydarov.svg" alt="Jasurbek Haydarov" width="720" />
+  <a href="#">
+    <img src="./assets/jasurbek-haydarov.svg" alt="Jasurbek Haydarov" width="720" />
+  </a>
   <br />
   <p><strong>Software Engineer · Builder · Technical Explorer</strong></p>
   <p>
-    <a href="https://hexjasur.github.io/Jasurbek/">Portfolio</a>
+    <a href="https://jasurdev.uz">Portfolio</a>
     ·
-    <a href="https://github.com/hexjasur">Repositories</a>
+    <a href="https://github.com/hexjasur?tab=repositories">Repositories</a>
     ·
-    <a href="https://t.me/jasurhaydarovcode">Telegram</a>
-    ·
-    <a href="mailto:jasurhaydarovcode@gmail.com">Email</a>
+    <a href="https://t.me/jasurhaydarovcode">Telegram Blog</a>
   </p>
 </div>
 
 <br clear="all" />
 
 <div align="center">
-  <img src="./assets/flora/flora-divider.svg" alt="Botanical divider" width="760" />
+  <a href="#">
+    <img src="./assets/flora/flora-divider.svg" alt="Botanical divider" width="760" />
+  </a>
 </div>
 
 ## Hello, I'm Jasurbek
@@ -25,7 +27,9 @@ I build practical software across the web, desktop, and developer-tooling space.
 
 I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for native applications, and turning technical concepts into clear interfaces. This profile is a living garden of projects, experiments, and engineering notes.
 
-<img src="./assets/flora/floral-left.webp" alt="Flora branch" width="180" align="right" />
+<a href="#">
+  <img src="./assets/flora/floral-left.webp" alt="Flora branch" width="180" align="right" />
+</a>
 
 ### Current focus
 
@@ -37,8 +41,15 @@ I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for nat
 
 <br clear="all" />
 
+<div align="center">
+  <a href="#">
+    <img src="./assets/flora/flora-divider.svg" alt="Botanical divider" width="760" />
+  </a>
+</div>
+
 ## Technologies I use
 
+<a href="#">
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F4038?style=for-the-badge&logo=typescript&logoColor=F1E9DC)
@@ -56,15 +67,28 @@ I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for nat
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2F4038?style=for-the-badge&logo=github-actions&logoColor=F1E9DC)
 
 </div>
+</a>
+
+<div align="center">
+  <a href="#">
+    <img src="./assets/flora/flora-divider.svg" alt="Botanical divider" width="760" />
+  </a>
+</div>
 
 ## GitHub activity
 
 <div align="center">
-  <a href="https://github.com/hexjasur">
+  <a href="#">
     <img src="https://github-readme-stats-seven-khaki-85.vercel.app/api?username=hexjasur&show_icons=true&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D&icon_color=B86752" alt="Jasurbek's GitHub stats" height="165" />
   </a>
-  <a href="https://github.com/hexjasur">
+  <a href="#">
     <img src="https://github-readme-stats-seven-khaki-85.vercel.app/api/top-langs/?username=hexjasur&layout=compact&hide_border=true&bg_color=FBF6EC&title_color=2F4038&text_color=6D786D" alt="Jasurbek's top languages" height="165" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="./assets/flora/flora-divider.svg" alt="Botanical divider" width="760" />
   </a>
 </div>
 
@@ -76,19 +100,20 @@ I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for nat
   </a>
 </div>
 
+<div align="center">
+  <a href="#">
+    <img src="./assets/flora/flora-divider.svg" alt="Botanical divider" width="760" />
+  </a>
+</div>
+
 ## Connect
 
 <div align="center">
-  <img src="./assets/flora/floral-bloom.webp" alt="Floral bloom" width="120" />
+  <a href="#">
+    <img src="./assets/flora/floral-bloom.webp" alt="Floral bloom" width="120" />
+  </a>
   <br />
-  <a href="https://hexjasur.github.io/Jasurbek/">Portfolio</a> ·
-  <a href="https://github.com/hexjasur">GitHub</a> ·
-  <a href="https://t.me/jasurhaydarovcode">Telegram</a> ·
-  <a href="mailto:jasurhaydarovcode@gmail.com">jasurhaydarovcode@gmail.com</a>
+  <a href="https://jasurdev.uz">Portfolio</a> ·
+  <a href="https://t.me/KanYonA">Telegram</a> ·
 </div>
 
-<br />
-
-<div align="center">
-  <sub>Built with curiosity, shipped with care, and styled with a little botanical calm.</sub>
-</div>
