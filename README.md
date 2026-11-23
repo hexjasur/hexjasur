@@ -92,6 +92,11 @@ I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for nat
   </a>
 </div>
 
+<h2 align="center">Profile View</h2>
+<div align="center">
+  <img src="https://count.getloli.com/@:hexjasur?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile views" />
+</div>
+
 ## Pac-Man preview
 
 <div align="center">
