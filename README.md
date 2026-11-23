@@ -92,6 +92,23 @@ I enjoy working with JavaScript and TypeScript, exploring Rust and Tauri for nat
   </a>
 </div>
 
+<h2 align="center">Profile View</h2>
+<div align="center">
+  <img src="https://count.getloli.com/@:hexjasur?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile views" />
+</div>
+
+## Pac-Man preview
+
+<div align="center">
+  <a href="https://github.com/hexjasur">
+    <img src="https://raw.githubusercontent.com/hexjasur/hexjasur/output/dist/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="760" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="./assets/flora/flora-divider.svg" alt="Botanical divider" width="760" />
+</div>
+
 ## Coding activity
 
 <div align="center">
